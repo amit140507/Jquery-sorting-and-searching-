@@ -1,4 +1,5 @@
 # Jquery-sorting-and-searching
+```
 // js for filter document archive by dropdown and click
 var  $window                    = jQuery( window )
             ,$document              = jQuery( this )
@@ -87,3 +88,4 @@ var  $window                    = jQuery( window )
                          jQuery( '.document' ).show();
                     }
                     });
+```
